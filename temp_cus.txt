@@ -1,0 +1,5 @@
+91029-JAKS:Jack:921118291029:0129384710:jack@gmail.com:Savings:
+43049-MAYS:Mary:920304143049:0192039800:mary@gmail.com:Savings:
+52834-PAAC:Patricia:090807052834:0123948700:patricia@gmail.com:Current:
+20394-CAYS:Candy:011111020394:0129304980:candy@gmail.com:Savings:
+29309-OLRC:Oliver:701214029309:0192837600:oliver@gmail.com:Current:
