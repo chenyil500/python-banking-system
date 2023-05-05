@@ -1,6 +1,3 @@
-#LIM CHEN YI
-#TP066187
-
 import os
 import datetime
 
